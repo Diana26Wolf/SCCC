@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient( skyblue, green);
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.header{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-size: 35px;
+    margin-top: 0px;
+}
+.header label{
+    color: yellow;
+    font-size: 28px;
+    font-weight: normal;
+}
+.middle button{
+font-size: 22px;
+color: yellow;
+background-color:steelblue ;
+letter-spacing: 3px;
+border-color: slateblue;
+}
+#result, #accuracy{
+    color: black;
+    font-weight: bold;
+}
+.middle h3{
+    font-size: 32px;
+    color: white;
+}
+.p_footer{
+   
+    bottom: 0px;
+    color: peachpuff;
+    float: right;
+    margin-top: 10px;
+    font-size: 20px;
+}
